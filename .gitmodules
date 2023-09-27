@@ -1,0 +1,3 @@
+[submodule "client-code"]
+	path = client-code
+	url = git@github.com:asquithboys/beltpack-client.git
